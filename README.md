@@ -1,12 +1,12 @@
 ## Hi there, I'm Oussama Mater 👋
 
-## I'm an IT Student, Blogger and CTF player!!
+## I'm a Software Engineering Student, Web Developer and CTF player.
 
-- 🔭 I’m currently working on a TCP _Python-Based_ Server for CTF challenges
-- 🌱 I’m currently learning everything, literally everything 🤣
+- 🔭 I’m currently working on a feature-rich LMS.
+- 🌱 I’m currently learning more about Hardware.
 - 👯 I’m looking to collaborate with any startups :office:
-- 🤔 I’m looking for internships :nerd_face:
-- 🥅 2020 Goals: Contribute more to Open Source projects, the least I can do!
+- 🤔 I’m looking for part-time jobs in Web Development :nerd_face:
+- 🥅 2022 Goals: Contribute more to Open Source projects, the least I can do!
 - 💬 Ask me about anything, would rather Security related :computer:
 - ⚡ Fun fact: I love :dog: alot, aloooot and I enjoy listening to violin :violin:
 
