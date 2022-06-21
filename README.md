@@ -1,14 +1,57 @@
 ## Hi there, I'm Oussama Mater 👋
 
-## I'm a Software Engineering Student, Web Developer and CTF player.
+## A little more about me..
 
-- 🔭 I’m currently working on a feature-rich LMS.
-- 🌱 I’m currently learning more about Hardware.
-- 👯 I’m looking to collaborate with any startups.
-- 🤔 I’m looking for part-time jobs in Web Development.
-- 🥅 2022 Goals: Contribute more to Open Source projects, the least I can do!
-- 💬 Ask me about anything, would rather Security related.
-- ⚡ Fun fact: I love :dog: alot, aloooot and I enjoy listening to violin :violin:
+```php
+<?php
+
+namespace MaterOussama;
+
+class About extends Me
+{
+    public function getBio(): string
+    {
+        return 'I am Software Engineering Student, CTF Player and a Web Developer.';
+    }
+
+    public function getMore(): array
+    {
+        return [
+            'work' => [
+                'Linux Instructor @GoMyCode',
+                'Laravel Instructor @BeyondCodeAcademy',
+                'Freelancer'
+            ],
+            'education' => [
+                'Business Computing',
+                'Software Engineering'
+            ]
+        ];
+    }
+
+    public function getCurrentState(): array 
+    {
+        return [
+            'working_on' => [
+                'Beyond Code Academy Platform',
+                'New Web Workshops'
+            ],
+            'learning' => [
+                'Hardware',
+                'DevOps and DevSecOps'
+            ],
+            'looking_for' => [
+                'Part Time jobs in Web Developement'
+            ]
+        ];
+    }
+
+    public function getFutureGoal(): string
+    {
+        return 'To contribute to open source.';
+    }
+}
+```
 
 ## Connect with me:
 
